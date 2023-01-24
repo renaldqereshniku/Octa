@@ -111,5 +111,3 @@ function step (event) {
 }
 
 setInterval(step, 800);
-
-//startButton.addEventListener("click", step);
