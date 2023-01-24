@@ -42,6 +42,10 @@ p {
     text-align: center;
 }
 
+h3 {
+    text-align: right;
+}
+
 #buttons {
     width: 100%;
     display: flex;
