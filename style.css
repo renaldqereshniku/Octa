@@ -43,6 +43,10 @@ p {
     color: rgb(56, 56, 56);
 }
 
+a {
+    text-decoration: none;
+}
+
 #footer {
     display: flex;
     align-items: right;
