@@ -39,12 +39,13 @@ h1 {
 
 p {
     font-family: 'Roboto Mono', monospace;
-    font-size: 32px;
+    font-size: 24px;
     color: rgb(56, 56, 56);
 }
 
 a {
     text-decoration: none;
+    text-align: right;
 }
 
 #footer {
