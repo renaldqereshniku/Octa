@@ -50,5 +50,5 @@ a {
 
 #footer {
     display: flex;
-    align-items: right;
+    justify-content: right;
 }
