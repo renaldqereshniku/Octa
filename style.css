@@ -41,11 +41,11 @@ p {
     font-family: 'Roboto Mono', monospace;
     font-size: 24px;
     color: rgb(56, 56, 56);
+    text-align: right;
 }
 
 a {
     text-decoration: none;
-    text-align: right;
 }
 
 #footer {
