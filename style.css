@@ -42,7 +42,7 @@ h1 {
     width: 100%;
     display: flex;
     flex-direction: row;
-    align-items: end;
+    align-items: flex-end;
 }
 
 a {
@@ -54,5 +54,4 @@ a {
 p {
     font-family: 'Roboto Mono', monospace;
     font-size: 24px;
-    text-align: right;
 }
