@@ -37,10 +37,21 @@ h1 {
     text-align: center;
 }
 
-a p {
-    font-family: 'Roboto Mono', monospace;
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+a {
     font-size: 24px;
     color: rgb(56, 56, 56);
     text-decoration: none;
-    text-align: right;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 24px;
+    /*text-align: right;*/
 }
